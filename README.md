@@ -1,22 +1,15 @@
-# 🚀 Landing Page Project
+# 🚀 Landing Page
 
 ## 🔎 Overview  
-This project is a **responsive Landing Page** designed using **HTML5** and **CSS3 (Grid & Flexbox)**.  
-It demonstrates a modern layout, clean design, and mobile-first responsiveness for real-world website front pages.
-
-## 📁 Features  
-- Hero section with title and subtitle  
-- Responsive layout using CSS Grid & Flexbox  
-- Clean and professional design  
-- Mobile-friendly and scalable
+This is a responsive **Landing Page** created using **HTML** and **CSS**.  
+It features a clean design and is optimized for all screen sizes.
 
 ## 🛠 Technologies Used  
 - HTML5  
-- CSS3 (Grid, Flexbox, Media Queries)
+- CSS3  
 
 ## 📸 Screenshot  
-[![Landing-Page screenshot](https://i.postimg.cc/GhWjTVbk/Screenshot-2025-06-03-at-20-38-06.png)](https://postimg.cc/F7xS2PdR)
+[![Screenshot](https://i.postimg.cc/GhWjTVbk/Screenshot-2025-06-03-at-20-38-06.png)](https://postimg.cc/F7xS2PdR)
 
 ## 🌐 Live Demo  
-👉 [View Live](https://landing-page-xx.netlify.app/)
-
+👉 <a href="https://landing-page-xx.netlify.app/" target="_blank">View Live</a>
