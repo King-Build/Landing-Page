@@ -1,4 +1,4 @@
-# 🚀 Landing Page
+# Landing Page
 
 ## 🔎 Overview  
 This is a responsive **Landing Page** created using **HTML** and **CSS**.  
