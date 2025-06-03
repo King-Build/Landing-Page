@@ -20,4 +20,3 @@ It demonstrates a modern layout, clean design, and mobile-first responsiveness f
 ## 🌐 Live Demo  
 👉 [View Live](https://css-landing-page.netlify.app/)
 
-## 📂 Project Structure  
