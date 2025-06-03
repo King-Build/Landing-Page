@@ -18,5 +18,5 @@ It demonstrates a modern layout, clean design, and mobile-first responsiveness f
 [![Landing-Page screenshot](https://i.postimg.cc/GhWjTVbk/Screenshot-2025-06-03-at-20-38-06.png)](https://postimg.cc/F7xS2PdR)
 
 ## 🌐 Live Demo  
-👉 [View Live](https://css-landing-page.netlify.app/)
+👉 [View Live](https://landing-page-xx.netlify.app/)
 
